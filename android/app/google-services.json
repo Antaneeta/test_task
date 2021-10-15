@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039338713232",
+    "project_id": "react-task-321f7",
+    "storage_bucket": "react-task-321f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039338713232:android:126013a1c13e34c0446815",
+        "android_client_info": {
+          "package_name": "com.antaneeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039338713232-s9o3rbg37g0ctng0dh4qp7tch20l4u1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv7Vz-NYMhJKhAdT4dTk0NqLl4MsspnJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039338713232-s9o3rbg37g0ctng0dh4qp7tch20l4u1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
