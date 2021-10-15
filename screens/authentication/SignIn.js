@@ -20,7 +20,9 @@ const SignIn = ({navigation}) => {
     const {login} = useContext(AuthContext);
 
     const onSubmit = () => {
-        login(username, password);
+        if(username!=='' && password!==''){
+            login(username, password);
+        }
     }
     return (
         <View style={styles.container}>

@@ -23,7 +23,7 @@ const SignUp = ({navigation}) => {
     const {register} = useContext(AuthContext);
 
     const onSubmit = () => {
-        if(password === confirmPassword){
+        if(password === confirmPassword && username!=='' && password!==''){
             register(username, password);
         }
     }
